@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Are there any massless particles?",
+    "subject": "Physics",
+    "topic": "particle",
+    "difficulty": "medium",
+    "marks": 20
+  },
+  {
+    "question": "Can gold be created from other elements?",
+    "subject": "Physics",
+    "topic": "particle",
+    "difficulty": "hard",
+    "marks": 50
+  },
+  {
+    "question": "Can radio antennas emit visible light??",
+    "subject": "Physics",
+    "topic": "wave",
+    "difficulty": "easy",
+    "marks": 10
+  },
+  {
+    "question": "Can radio antennas emit visible light??",
+    "subject": "Physics",
+    "topic": "wave",
+    "difficulty": "easy",
+    "marks": 10
+  },
+  {
+    "question": "Can you light diamond on fire?",
+    "subject": "Chemistry",
+    "topic": "thermodynamics",
+    "difficulty": "hard",
+    "marks": 50
+  },
+  {
+    "question": "Are two atoms of the same element identical?",
+    "subject": "Chemistry",
+    "topic": "thermodynamics",
+    "difficulty": "hard",
+    "marks": 50
+  },
+  {
+    "question": "How can glass be a liquid if it's so hard?",
+    "subject": "Chemistry",
+    "topic": "particle",
+    "difficulty": "medium",
+    "marks": 20
+  },
+  {
+    "question": "What is the difference between a chemical process and a physical process in chemistry?",
+    "subject": "Chemistry",
+    "topic": "process",
+    "difficulty": "easy",
+    "marks": 10
+  },
+  {
+    "question": "Why don't metals burn?",
+    "subject": "Chemistry",
+    "topic": "thermodynamics",
+    "difficulty": "hard",
+    "marks": 50
+  },
+  {
+    "question": " What are some other programming paradigms other than OOPs?",
+    "subject": "Computer Science",
+    "topic": "oops",
+    "difficulty": "easy",
+    "marks": 50
+  },
+  {
+    "question": " What are some advantages of using OOPs?",
+    "subject": "Computer Science",
+    "topic": "oops",
+    "difficulty": "medium",
+    "marks": 20
+  },
+  {
+    "question": "Are there any limitations of Inheritance?",
+    "subject": "Computer Science",
+    "topic": "oops",
+    "difficulty": "hard",
+    "marks": 50
+  },
+  {
+    "question": "What is a database?",
+    "subject": "Computer Science",
+    "topic": "dbms",
+    "difficulty": "easy",
+    "marks": 10
+  },
+  {
+    "question": "What are the disadvantages of file processing systems?",
+    "subject": "Computer Science",
+    "topic": "dbms",
+    "difficulty": "medium",
+    "marks": 20
+  },
+  {
+    "question": "What are the three levels of data abstraction?",
+    "subject": "Computer Science",
+    "topic": "dbms",
+    "difficulty": "hard",
+    "marks": 50
+  },
+  {
+    "question": "How many types of database languages are?",
+    "subject": "Computer Science",
+    "topic": "dbms",
+    "difficulty": "easy",
+    "marks": 10
+  },
+  {
+    "question": "What do you mean by durability in DBMS?",
+    "subject": "Computer Science",
+    "topic": "dbms",
+    "difficulty": "medium",
+    "marks": 20
+  },
+  {
+    "question": "What do you mean by extension and intension?",
+    "subject": "Computer Science",
+    "topic": "dbms",
+    "difficulty": "hard",
+    "marks": 50
+  }
+]
